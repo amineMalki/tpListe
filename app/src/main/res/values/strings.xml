@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListeListes</string>
+    <string name="creez_une_nouvelle_liste">Creez une nouvelle liste</string>
+    <string name="entrez_le_nom_de_la_liste">Entrez le nom de la liste:</string>
+    <string name="liste_d_epicerie">Liste d\'epicerie</string>
+    <string name="ok">Ok</string>
+    <string name="sauvegarder">Sauvegarder</string>
+    <string name="quitter">Quitter</string>
+    <string name="retour">Retour</string>
+    <string name="ajouter">ajouter</string>
+    <string name="entrez_une_tache">Entrez une tache</string>
+    <string name="fruit_ou_legume">fruit ou legume</string>
+    <string name="ajouter_la_tache">Ajouter la tache</string>
+</resources>
